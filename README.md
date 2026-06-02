@@ -1,58 +1,149 @@
-# Hi 👋 I'm Hayyan Ahmed
+# Hi 👋, I'm Hayyan Ahmed
 
-🚀 Computer Science Student | Web Developer | Hardware & Robotics Enthusiast
+### 🚀 Computer Science Student | AI Enthusiast | Full Stack Developer | Robotics Builder
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00C2FF&center=false&vCenter=true&width=600&lines=AI+Engineer+in+Progress;Full+Stack+Developer;Raspberry+Pi+Robotics+Builder;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 ---
 
-## 🧠 About Me
-I am passionate about building modern web applications and exploring the world of hardware and embedded systems. I enjoy combining software and hardware to create innovative solutions.
+## 🚀 About Me
+
+Computer Science student passionate about building intelligent systems, modern web applications, and hardware-integrated solutions.
+
+I enjoy transforming ideas into real products through software engineering, artificial intelligence, and robotics.
+
+🔹 Building AI-powered applications and intelligent agents
+
+🔹 Developing scalable full-stack web solutions
+
+🔹 Working with Raspberry Pi and embedded systems
+
+🔹 Learning cloud technologies and system design
+
+🔹 Exploring automation and real-world AI applications
+
+### 🎯 Current Goal
+
+To become an AI Engineer capable of building autonomous systems, intelligent agents, and impactful technology solutions.
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 ## 💻 Tech Stack
-- HTML, CSS, JavaScript
-- React, Next.js
-- Python
-- Git & GitHub
-- UI/UX Design (Figma)
-- Basic IoT & Hardware Concepts
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### AI & Tools
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Robotics
+
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
 
-## 🤖 Interests
-- Web Development
-- UI/UX Design
-- Robotics & Hardware
-- IoT Systems
-- Future Tech & Innovation
+## 🔥 Featured Project
+
+### 🤖 AI Powered Robot
+
+Built using Raspberry Pi 5, computer vision, automation, and intelligent decision-making systems.
+
+**Features:**
+
+- Voice Commands
+- AI Interaction
+- Computer Vision
+- Autonomous Navigation
+- Smart Automation
 
 ---
 
-## 🚀 Projects
-- PSX Portfolio Dashboard
-- Raspberry Pi 5 Smart Robot
-- Personal Portfolio Website
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Contact
-- LinkedIn: (your link)
-- Email: (your email)
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1)
 
 ---
 
-⭐ Always learning, always building.
-<!--
-**hayyana72-hue/hayyana72-hue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📈 Contribution Graph
 
-Here are some ideas to get you started:
+![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 Quote
+
+> "Talk is cheap. Show me the code."
+>
+> — Linus Torvalds
+
+---
+
+> "The best way to predict the future is to invent it."
+>
+> — Alan Kay
+
+---
+
+> "Any sufficiently advanced technology is indistinguishable from magic."
+>
+> — Arthur C. Clarke
+
+---
+
+> "The future belongs to those who build it."
+
+---
+
+> "Turning ideas into reality through code, creativity, and innovation."
+
+---
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
