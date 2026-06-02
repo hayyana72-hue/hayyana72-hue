@@ -98,27 +98,35 @@ Built using Raspberry Pi 5, computer vision, automation, and intelligent decisio
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=hayyana72-hue&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=hayyana72-hue&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hayyana72-hue&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1)
+![](https://github-profile-trophy.vercel.app/?username=hayyana72-hue&theme=tokyonight&no-frame=true&row=1)
 
 ---
 
 ## 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=hayyana72-hue&theme=tokyo-night)
 
 ---
 
 ## 💡 Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+<p align="center">
+  <i>"Talk is cheap. Show me the code."
+>
+> — Linus Torvalds</i>
+</p>
 
 > "Talk is cheap. Show me the code."
 >
@@ -146,4 +154,4 @@ Built using Raspberry Pi 5, computer vision, automation, and intelligent decisio
 
 ---
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+![](https://komarev.com/ghpvc/?username=hayyana72-hue&color=blue)
