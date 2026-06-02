@@ -123,34 +123,40 @@ Built using Raspberry Pi 5, computer vision, automation, and intelligent decisio
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <p align="center">
-  <i>"Talk is cheap. Show me the code."
->
-> — Linus Torvalds</i>
+  <i>"Building the future through AI, robotics, and innovation."</i>
 </p>
 
-> "Talk is cheap. Show me the code."
->
-> — Linus Torvalds
+---
+
+<p align="center">
+  <i>"Talk is cheap. Show me the code."</i>
+</p>
 
 ---
 
-> "The best way to predict the future is to invent it."
->
-> — Alan Kay
+<p align="center">
+  <i>"The best way to predict the future is to invent it."</i>
+</p>
 
 ---
 
-> "Any sufficiently advanced technology is indistinguishable from magic."
->
-> — Arthur C. Clarke
+<p align="center">
+  <i>"Any sufficiently advanced technology is indistinguishable from magic."</i>
+</p>
 
 ---
 
-> "The future belongs to those who build it."
+<p align="center">
+  <i>"The future belongs to those who build it."</i>
+</p>
 
 ---
 
-> "Turning ideas into reality through code, creativity, and innovation."
+<h3 align="center">💡 My Philosophy</h3>
+
+<p align="center">
+  <i>"Turning ideas into reality through code, creativity, and innovation."</i>
+</p>
 
 ---
 
